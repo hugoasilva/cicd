@@ -20,6 +20,14 @@
     <input type="text" placeholder="Enter Email" name="email" id="email2" required>
     <br>
 
+    <label for="email"><b>Enter Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <br>
+
+    <label for="email"><b>Enter Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" id="email2" required>
+    <br>
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
